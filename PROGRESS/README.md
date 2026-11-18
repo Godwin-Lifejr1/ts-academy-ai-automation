@@ -2,20 +2,37 @@
 
 ## Current Position
 **Module 1 — Introduction to AI & Automation**
-**Topic 1 — What is AI?**
 
-### Completed learning
-- AI definition and purpose
-- AI vs traditional automation
-- Why AI is useful in automation
-- High-level AI pipeline
-- Major AI areas
-- AI limitations and the need for validation
-- Practical AI + automation example using a property enquiry
+**Status: Module 1 completed**
 
-### Current checkpoint
-Answer the four questions in:
-`MODULE-01-INTRODUCTION-TO-AI-AUTOMATION/01-what-is-ai/README.md`
+**Next:** Module 2 — AI Automation in Practice, Topic 1 — Planning an Automation Project
 
-### Rule
+### Completed topics
+
+1. **What is AI?** — Passed
+2. **What is Prompt Engineering?** — Passed
+3. **What is Automation?** — Passed
+4. **Types of Automation** — Passed
+5. **Overview of Automation Platforms** — Passed
+6. **Relationships & Advanced Data Structures** — Passed
+7. **Examples & Practice Questions** — Passed (9/10)
+
+### Key concepts demonstrated
+- AI vs traditional/rule-based automation
+- Prompt engineering and structured AI output
+- Trigger → Action → Result
+- Rule-based, workflow, API-based and AI-powered automation
+- Attended vs unattended automation
+- Automation platform selection: Zapier, Make, n8n, Power Automate and UiPath
+- No-code vs low-code
+- Strings, numbers, Booleans, objects and arrays
+- JSON and data exchange between applications
+- One-to-one, one-to-many and many-to-many relationships
+- AI interpretation vs automation execution
+- IF vs SWITCH decision logic
+
+### Learning rule
 Progress is based on demonstrated understanding, not simply completing a lesson.
+
+### Next checkpoint
+Begin **Module 2 — AI Automation in Practice — Topic 1: Planning an Automation Project**.
